@@ -1,0 +1,10 @@
+/* * {
+    border: 1px dotted red;
+} */
+
+.card {
+    box-shadow: 3px 10px 24px 0px rgba(0,0,0,0.64);
+    -webkit-box-shadow: 3px 10px 24px 0px rgba(0,0,0,0.64);
+    -moz-box-shadow: 3px 10px 24px 0px rgba(0,0,0,0.64);
+}
+
